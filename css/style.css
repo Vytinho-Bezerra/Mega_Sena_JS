@@ -1,0 +1,39 @@
+body {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+
+button {
+    cursor: pointer;
+    margin: 5px;
+}
+
+.numbers {
+    border: 1px solid blue;
+    background-color: lightcyan;
+    padding: 10px;
+    list-style-type: none;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+.number {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid blue;
+    width: 25px;
+    border-radius: 100%;
+    padding: 5px;
+    user-select: none;
+    cursor: pointer;
+}
+
+.selected-number {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+}
