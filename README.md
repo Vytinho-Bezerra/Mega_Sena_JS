@@ -1,5 +1,5 @@
 # 📝 Mega Sena JavaScript
-Um projeto de Mega Sena, feito utilizando JavaScript.
+Um projeto de Mega Sena, feito utilizando JavaScript, com as funções de realizar guardar e apagar jogos, usando conceito básico de Arrays.
 
 [Documentação JavaScript](https://devdocs.io/javascript/)
 ## 🖊 Descrição
